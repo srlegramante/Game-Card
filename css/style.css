@@ -1,0 +1,23 @@
+body {
+    background-image: url('/img/background.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font: normal 15pt Arial;
+}
+
+h1#title {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+div#b1 {
+    background-image: url('/img/cenario.png');
+    margin: auto;
+}
+
+img#imagem {
+    width: 48px;
+    height: 48px;
+}
